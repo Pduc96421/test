@@ -1,0 +1,2 @@
+print("duc")
+print("abc");
