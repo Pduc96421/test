@@ -1,2 +1,2 @@
 print("duc")
-print("abc");
+print("abc")
