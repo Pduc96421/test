@@ -1,3 +1,2 @@
 print("duc")
-print("abc")
-print("c0");
+print("abc");
